@@ -2,7 +2,7 @@ package Practicas;
 
 import java.util.Scanner;
 
-public class Ejercicio14 {
+public class Ejercicio15 {
     public static void main(String[] args) {
         System.out.println("A continuacion vera un menu Cinematografica ");
         Scanner pl = new Scanner(System.in);

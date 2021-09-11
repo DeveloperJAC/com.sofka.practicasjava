@@ -1,8 +1,10 @@
+//Calcular el àrea de un círculo
+
 package Practicas;
 
 import java.util.Scanner;
 
-public class AreaCirculo {
+public class Ejercicio3 {
     public static  void main(String[] args){
         Scanner ac = new Scanner(System.in);
         System.out.println("ingrese el radio del circulo");
